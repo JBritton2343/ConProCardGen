@@ -38,9 +38,15 @@ function render(variables = {}) {
           <h3>Miami, USA</h3>
           <ul class="position-right">
             <li><a href="https://twitter.com/JamesBr34154243"><i class="fab fa-twitter"></i></a></li>
+<<<<<<< HEAD
             <li><a href="https://github.com/JBritton2343"><i class="fab fa-github"></i></a></li>
             <li><a href="https://linkedin.com/james-britton-a37469211/"><i class="fab fa-linkedin"></i></a></li>
             <li><a href="https://instagram.com/jbritton915"><i class="fab fa-instagram"></i></a></li>
+=======
+            <li><a href="https://github.com/Jbritton2434"><i class="fab fa-github"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/james-britton-a37469211/"><i class="fab fa-linkedin"></i></a></li>
+            <li><a href="https://instagram.com/4geeksacademy"><i class="fab fa-instagram"></i></a></li>
+>>>>>>> 65ddba6241e882ef94f3092c8937c8909f8e07ed
           </ul>
         </div>
     `;
